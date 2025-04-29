@@ -1,0 +1,506 @@
+emp_id,first_name,last_name,department,join_date,monthly_salary,birth_date
+CU025,Aubrey,Clark,Customer Support & Service,2012-01-04,6700,1956-03-29
+CU026,Preston,Clark,Customer Support & Service,2012-01-04,6700,1956-04-12
+CU031,Josephine,Meyers,Customer Support & Service,2012-01-05,6900,1989-11-05
+CU041,Irene,Ward,Customer Support & Service,2012-01-14,6600,1960-09-20
+CU050,Faith,Gonzales,Customer Support & Service,2012-01-19,6500,1961-10-21
+CU057,Wendy,Richardson,Customer Support & Service,2012-01-19,6500,1983-04-28
+CU059,Dale,Butler,Customer Support & Service,2012-01-28,6900,1989-12-19
+CU064,Laura,Griffin,Customer Support & Service,2012-01-28,6800,1950-11-18
+CU066,Steven,Butler,Customer Support & Service,2012-01-28,6900,1950-04-12
+CU068,Addison,Jones,Customer Support & Service,2013-05-18,6800,1950-12-02
+CU069,Nathan,Jones,Customer Support & Service,2013-05-18,6800,1951-01-16
+CU120,Gerald,Harrison,Customer Support & Service,2015-09-08,6900,1950-05-26
+CU128,Dominique,Reynolds,Customer Support & Service,2015-09-17,6500,1983-05-12
+CU133,Lily,Marshall,Customer Support & Service,2015-09-17,6600,1960-10-04
+CU135,Timothy,Reynolds,Customer Support & Service,2015-09-17,6500,1983-06-26
+CU137,Bruce,Evans,Customer Support & Service,2015-09-22,6900,1950-06-09
+CU142,Karla,Cook,Customer Support & Service,2015-09-22,6800,1951-02-01
+CU144,Robin,Evans,Customer Support & Service,2015-09-22,6900,1950-07-23
+CU152,Hester,Bailey,Customer Support & Service,2016-03-05,6500,1983-07-10
+CU161,Erin,Perry,Customer Support & Service,2016-03-11,6800,1951-03-14
+CU171,Cole,Henderson,Customer Support & Service,2016-03-19,6600,1960-11-18
+CU176,Kristie,Hughes,Customer Support & Service,2016-03-19,6900,1950-08-06
+CU178,Simone,Henderson,Customer Support & Service,2016-03-19,6600,1960-12-02
+CU180,Amelia,Harris,Customer Support & Service,2016-03-27,6500,1983-08-24
+CU181,Oscar,Harris,Customer Support & Service,2016-03-27,6500,1983-09-07
+CU186,Joel,Mcdonald,Customer Support & Service,2016-03-28,6600,1961-01-16
+CU194,Deanna,Myers,Customer Support & Service,2017-11-05,6800,1955-09-07
+CU199,Leo,West,Customer Support & Service,2017-11-05,6500,1983-10-21
+CU201,Taylor,Myers,Customer Support & Service,2017-11-05,6800,1955-10-21
+CU203,Bethany,Baker,Customer Support & Service,2017-11-14,6600,1961-02-01
+CU208,Juliana,Turner,Customer Support & Service,2017-11-14,6600,1961-03-14
+CU210,Randy,Baker,Customer Support & Service,2017-11-14,6600,1961-04-28
+CU218,Jacqueline,Price,Customer Support & Service,2017-11-22,6900,1950-09-20
+CU318,Ellen,Kelly,Customer Support & Service,2020-05-03,6700,1956-05-26
+CU323,Lynn,Parker,Customer Support & Service,2020-05-03,6700,1956-06-09
+CU325,Vaughn,Phillips,Customer Support & Service,2020-05-03,6700,1956-07-23
+CU328,Cheryl,James,Customer Support & Service,2020-05-11,6500,1983-11-05
+CU333,Kerry,Wood,Customer Support & Service,2020-05-11,6600,1961-05-12
+CU335,Selena,James,Customer Support & Service,2020-05-11,6500,1950-03-29
+CU341,Jerome,Woods,Customer Support & Service,2020-05-19,6500,1983-12-19
+CU350,Harrison,Mitchell,Customer Support & Service,2020-05-25,6800,1955-11-05
+CU403,Caroline,Rivera,Customer Support & Service,2022-07-03,6800,1955-12-19
+CU408,Keely,Peterson,Customer Support & Service,2022-07-03,6500,1984-01-02
+CU410,Ruth,Rivera,Customer Support & Service,2022-07-03,6800,1956-01-02
+CU417,Jeanne,Alexander,Customer Support & Service,2022-07-08,6800,1956-02-15
+CU427,Grant,Holmes,Customer Support & Service,2022-07-17,6700,1960-07-23
+CU437,Eduardo,Dawson,Customer Support & Service,2022-07-25,6600,1961-06-26
+CU442,Lorraine,Jennings,Customer Support & Service,2022-07-25,6900,1950-10-04
+CU444,Trina,Case,Customer Support & Service,2022-07-25,6600,1961-07-10
+FI027,Claudia,Barnes,Finance & Accounting,2012-01-05,7700,1983-03-14
+FI032,Kristen,Long,Finance & Accounting,2012-01-05,7900,1980-09-20
+FI034,Sherry,Barnes,Finance & Accounting,2012-01-05,7700,1983-04-28
+FI036,Alice,Jackson,Finance & Accounting,2012-01-13,7500,1984-09-20
+FI037,Owen,Jackson,Finance & Accounting,2012-01-13,7500,1984-10-04
+FI042,Joann,Harrison,Finance & Accounting,2012-01-14,7700,1983-05-12
+FI051,Herbert,Stewart,Finance & Accounting,2012-01-19,7500,1984-11-18
+FI060,Eric,Coleman,Finance & Accounting,2012-01-28,7800,1982-03-29
+FI067,Viola,Evans,Finance & Accounting,2012-01-28,7800,1982-04-12
+FI114,Abigail,Williams,Finance & Accounting,2015-03-03,10500,1958-11-18
+FI115,Nicholas,Williams,Finance & Accounting,2015-03-03,10500,1958-12-02
+FI121,Jaclyn,Kelly,Finance & Accounting,2015-09-08,7900,1980-10-04
+FI129,Frank,Ford,Finance & Accounting,2015-09-17,7700,1983-06-26
+FI136,Willie,James,Finance & Accounting,2015-09-17,7700,1983-07-10
+FI138,Dawn,Diaz,Finance & Accounting,2015-09-22,7800,1982-05-26
+FI143,Lena,Woods,Finance & Accounting,2015-09-22,7500,1984-12-02
+FI145,Tanya,Diaz,Finance & Accounting,2015-09-22,7800,1982-06-09
+FI147,Benjamin,Scott,Finance & Accounting,2015-09-30,7600,1984-01-02
+FI148,Ralph,Scott,Finance & Accounting,2015-09-30,7600,1984-02-15
+FI153,Jeremy,Graham,Finance & Accounting,2016-03-05,7500,1985-01-16
+FI162,Harold,Nelson,Finance & Accounting,2016-03-11,7800,1982-07-23
+FI172,Elizabeth,Watson,Finance & Accounting,2016-03-19,7900,1980-11-18
+FI177,Lydia,Turner,Finance & Accounting,2016-03-19,7600,1984-03-29
+FI179,Valerie,Pollard,Finance & Accounting,2016-03-19,7900,1980-12-02
+FI182,Charlotte,Gray,Finance & Accounting,2016-03-28,7500,1985-02-01
+FI187,Kenneth,Price,Finance & Accounting,2016-03-28,7700,1983-08-24
+FI189,Scott,Gray,Finance & Accounting,2016-03-28,7500,1985-03-14
+FI195,Ezra,Simmons,Finance & Accounting,2017-11-05,7500,1985-04-28
+FI202,Warren,Rivera,Finance & Accounting,2017-11-05,7500,1985-05-12
+FI204,Crystal,Flores,Finance & Accounting,2017-11-14,7900,1981-01-16
+FI209,Lance,Alexander,Finance & Accounting,2017-11-14,7800,1982-08-06
+FI211,Stephen,Flores,Finance & Accounting,2017-11-14,7900,1981-02-01
+FI213,Arthur,Gonzalez,Finance & Accounting,2017-11-21,7700,1983-09-07
+FI214,Perry,Gonzalez,Finance & Accounting,2017-11-21,7700,1983-10-21
+FI219,Jose,Holmes,Finance & Accounting,2017-11-22,7900,1981-03-14
+FI319,Gordon,Rowe,Finance & Accounting,2020-05-03,7600,1984-04-12
+FI329,Edgar,Ortiz,Finance & Accounting,2020-05-11,7600,1984-05-26
+FI334,Lorenzo,Meyers,Finance & Accounting,2020-05-11,7900,1981-04-28
+FI336,Travis,Payne,Finance & Accounting,2020-05-11,7600,1984-06-09
+FI337,Carmen,Bell,Finance & Accounting,2020-05-19,7800,1982-09-20
+FI342,Kaylee,Ward,Finance & Accounting,2020-05-19,7500,1985-06-26
+FI344,Ruby,Bell,Finance & Accounting,2020-05-19,7800,1982-10-04
+FI351,Jaylen,Gonzales,Finance & Accounting,2020-05-25,7800,1982-11-18
+FI404,Diane,Jordan,Finance & Accounting,2022-07-03,7500,1985-07-10
+FI409,Lila,Mcdonald,Finance & Accounting,2022-07-03,7700,1983-11-05
+FI411,Thomas,Jordan,Finance & Accounting,2022-07-03,7500,1985-08-24
+FI413,Brittany,Campbell,Finance & Accounting,2022-07-08,7900,1981-05-12
+FI418,Kari,Bailey,Finance & Accounting,2022-07-08,7800,1982-12-02
+FI420,Rita,Campbell,Finance & Accounting,2022-07-08,7900,1982-01-02
+FI428,Jane,Perry,Finance & Accounting,2022-07-17,7600,1984-07-23
+FI438,George,Fisher,Finance & Accounting,2022-07-25,7900,1982-02-15
+HU074,Jean,Bryant,Human Resources,2013-06-01,8800,1973-01-16
+HU084,Grace,Palmer,Human Resources,2013-06-10,8800,1973-02-01
+HU094,Edith,Murray,Human Resources,2013-06-18,8700,1974-04-12
+HU099,Lori,Norris,Human Resources,2013-06-18,8600,1975-05-12
+HU101,Trevor,Brewer,Human Resources,2013-06-18,8700,1974-05-26
+HU102,Carol,Murphy,Human Resources,2013-06-26,8800,1973-03-14
+HU107,Keaton,Torres,Human Resources,2013-06-26,8900,1972-01-02
+HU109,Russell,Murphy,Human Resources,2013-06-26,8800,1973-04-28
+HU230,Georgia,Ellis,Human Resources,2018-08-01,8600,1975-06-26
+HU238,Dominic,Owens,Human Resources,2018-08-10,8900,1972-02-15
+HU243,Lillian,Cruz,Human Resources,2018-08-10,8700,1974-06-09
+HU245,Tiffany,Owens,Human Resources,2018-08-10,8900,1972-03-29
+HU247,Brooke,Parker,Human Resources,2018-08-15,8600,1975-07-10
+HU252,Karl,Reed,Human Resources,2018-08-15,8800,1973-05-12
+HU254,Robert,Parker,Human Resources,2018-08-15,8600,1975-08-24
+HU262,Janet,Powell,Human Resources,2018-08-24,8800,1973-06-26
+HU271,Erica,Jenkins,Human Resources,2019-02-04,8800,1973-07-10
+HU278,Virgil,Edwards,Human Resources,2019-02-04,8800,1973-08-24
+HU281,Cody,Ross,Human Resources,2019-02-12,8700,1974-07-23
+HU286,Kristi,Patterson,Human Resources,2019-02-12,8600,1975-09-07
+HU288,Simon,Ross,Human Resources,2019-02-12,8700,1974-08-06
+HU290,Allison,White,Human Resources,2019-02-20,8800,1973-09-07
+HU291,Ophelia,White,Human Resources,2019-02-20,8800,1973-10-21
+HU296,Joanne,Gibson,Human Resources,2019-02-21,8700,1974-09-20
+HU304,Herman,Morris,Human Resources,2019-02-26,8900,1972-04-12
+HU313,Adam,Brown,Human Resources,2020-04-10,7800,1983-01-16
+HU314,Nicole,Brown,Human Resources,2020-04-10,7800,1983-02-01
+HU358,Bernice,Green,Human Resources,2021-10-07,8700,1974-10-04
+HU363,Julian,Roberts,Human Resources,2021-10-07,8700,1974-11-18
+HU365,Ramona,Green,Human Resources,2021-10-07,8700,1974-12-02
+HU373,Jacob,Sanders,Human Resources,2021-10-15,8600,1975-10-21
+HU383,Franklin,Hamilton,Human Resources,2021-10-24,8700,1975-01-16
+HU390,Wilma,Watson,Human Resources,2021-10-24,8700,1975-02-01
+HU392,Dean,Hayes,Human Resources,2021-10-29,8800,1973-11-05
+HU397,Lenora,Cole,Human Resources,2021-10-29,8900,1972-05-26
+HU399,Tara,Hayes,Human Resources,2021-10-29,8800,1973-12-19
+HU447,Chelsea,Ramirez,Human Resources,2023-04-04,8900,1972-06-09
+HU452,Kent,Bennett,Human Resources,2023-04-04,8700,1975-03-14
+HU454,Sebastian,Ramirez,Human Resources,2023-04-04,8900,1972-07-23
+HU460,Jermaine,Sullivan,Human Resources,2023-04-12,8900,1972-08-06
+HU469,Harriet,Carter,Human Resources,2023-04-18,8800,1974-01-02
+HU479,Ella,Brooks,Human Resources,2023-04-26,8600,1975-11-05
+HU484,Lynda,Campbell,Human Resources,2023-04-26,8800,1974-02-15
+HU486,Vanessa,Stone,Human Resources,2023-04-26,8600,1975-12-19
+HU494,Ignacio,Howard,Human Resources,2024-12-07,8700,1975-04-28
+HU503,Fabian,Foster,Human Resources,2024-12-12,8900,1972-09-20
+HU510,Waylon,Cooper,Human Resources,2024-12-12,8900,1972-10-04
+HU512,Curtis,Washington,Human Resources,2024-12-21,8600,1976-01-02
+HU517,Lane,Russell,Human Resources,2024-12-21,8800,1974-03-29
+HU519,Steve,Washington,Human Resources,2024-12-21,8600,1976-02-15
+HU521,Ashley,Wilson,Human Resources,2024-12-28,8900,1972-11-18
+HU522,Pearl,Wilson,Human Resources,2024-12-28,8900,1972-12-02
+HU527,Joseph,Atkins,Human Resources,2024-12-29,8600,1976-03-29
+IN030,Jalen,Wood,Information Technology,2012-01-05,9900,1963-04-28
+IN040,Gabriel,Woods,Information Technology,2012-01-14,9700,1965-03-14
+IN047,Wyatt,Sanders,Information Technology,2012-01-14,9700,1965-04-28
+IN049,Denise,Hamilton,Information Technology,2012-01-19,9800,1964-03-29
+IN054,Leonard,Owens,Information Technology,2012-01-19,9500,1966-09-20
+IN056,Teresa,Hamilton,Information Technology,2012-01-19,9800,1964-04-12
+IN058,Beverly,Nelson,Information Technology,2012-01-28,9700,1965-05-12
+IN063,Julio,Parker,Information Technology,2012-01-28,9700,1965-06-26
+IN065,Rebecca,Nelson,Information Technology,2012-01-28,9700,1965-07-10
+IN119,Edwin,Porter,Information Technology,2015-09-08,9600,1965-09-07
+IN124,Louise,Stone,Information Technology,2015-09-08,9900,1963-05-12
+IN126,Troy,Palmer,Information Technology,2015-09-08,9600,1965-10-21
+IN127,Casey,Richardson,Information Technology,2015-09-17,9800,1964-05-26
+IN132,Kellan,Ramirez,Information Technology,2015-09-17,9500,1966-10-04
+IN134,Salvador,Richardson,Information Technology,2015-09-17,9800,1964-06-09
+IN141,Jefferson,Griffin,Information Technology,2015-09-22,9800,1964-07-23
+IN151,Felix,Alexander,Information Technology,2016-03-05,9500,1966-11-18
+IN158,Whitney,Howard,Information Technology,2016-03-05,9500,1966-12-02
+IN160,Dana,Foster,Information Technology,2016-03-11,9900,1963-06-26
+IN165,Laurence,Hayes,Information Technology,2016-03-11,9800,1964-08-06
+IN167,Summer,Foster,Information Technology,2016-03-11,9900,1963-07-10
+IN169,Austin,Young,Information Technology,2016-03-18,9600,1965-11-05
+IN170,Phillip,Young,Information Technology,2016-03-18,9600,1965-12-19
+IN175,Joshua,Jennings,Information Technology,2016-03-19,9900,1963-08-24
+IN185,Isaac,Peterson,Information Technology,2016-03-28,9600,1966-01-02
+IN191,Aiden,Miller,Information Technology,2016-07-01,9800,1964-09-20
+IN192,Neil,Miller,Information Technology,2016-07-01,9800,1964-10-04
+IN193,Caleb,Collins,Information Technology,2017-11-05,9900,1963-09-07
+IN198,Katherine,Murphy,Information Technology,2017-11-05,9800,1964-11-18
+IN200,Roger,Collins,Information Technology,2017-11-05,9900,1963-10-21
+IN207,Jasmine,Hughes,Information Technology,2017-11-14,9700,1965-08-24
+IN217,Gerardo,Mcdonald,Information Technology,2017-11-22,9900,1963-11-05
+IN317,Connie,Jenkins,Information Technology,2020-05-03,9600,1966-02-15
+IN322,Kristopher,Washington,Information Technology,2020-05-03,9900,1963-12-19
+IN324,Solomon,Jenkins,Information Technology,2020-05-03,9600,1966-03-29
+IN326,Andrew,Thompson,Information Technology,2020-05-10,9500,1967-01-16
+IN327,Omar,Thompson,Information Technology,2020-05-10,9500,1967-02-01
+IN332,Johnny,Marshall,Information Technology,2020-05-11,9600,1966-04-12
+IN340,Hiram,Cook,Information Technology,2020-05-19,9500,1967-03-14
+IN349,Esther,Long,Information Technology,2020-05-25,9800,1964-12-02
+IN356,Wade,Morris,Information Technology,2020-05-25,9800,1965-01-16
+IN407,Jesse,West,Information Technology,2022-07-03,9500,1967-04-28
+IN416,Hazel,Turner,Information Technology,2022-07-08,9800,1965-02-01
+IN426,Elsa,Price,Information Technology,2022-07-17,9900,1964-01-02
+IN431,Mabel,Edwards,Information Technology,2022-07-17,9600,1966-05-26
+IN433,Vera,Carter,Information Technology,2022-07-17,9900,1964-02-15
+IN436,Chris,Brooks,Information Technology,2022-07-25,9500,1967-05-12
+IN441,Kiara,Ross,Information Technology,2022-07-25,9600,1966-06-09
+IN443,Shannon,Brooks,Information Technology,2022-07-25,9500,1967-06-26
+LE073,Harvey,Roberts,Legal & Compliance,2013-06-01,10800,1955-09-07
+LE083,Ellie,Sanders,Legal & Compliance,2013-06-10,10600,1957-12-19
+LE088,Lynne,Evans,Legal & Compliance,2013-06-10,10800,1955-10-21
+LE090,Velma,Nelson,Legal & Compliance,2013-06-10,10600,1958-01-02
+LE093,Chloe,Watson,Legal & Compliance,2013-06-18,10900,1954-08-06
+LE098,Kevin,Barnes,Legal & Compliance,2013-06-18,10700,1956-11-18
+LE100,Seth,Watson,Legal & Compliance,2013-06-18,10900,1954-09-20
+LE106,Jerry,Cole,Legal & Compliance,2013-06-26,10900,1954-10-04
+LE229,Edward,Torres,Legal & Compliance,2018-08-01,10700,1956-12-02
+LE234,Louis,Pollard,Legal & Compliance,2018-08-01,10600,1958-02-15
+LE236,Trisha,Rowe,Legal & Compliance,2018-08-01,10700,1957-01-16
+LE237,Carrie,Cooper,Legal & Compliance,2018-08-10,10800,1955-11-05
+LE242,Keith,Gray,Legal & Compliance,2018-08-10,10900,1954-11-18
+LE244,Sabrina,Cooper,Legal & Compliance,2018-08-10,10800,1955-12-19
+LE251,Jeff,Russell,Legal & Compliance,2018-08-15,10800,1956-01-02
+LE261,Greg,Atkins,Legal & Compliance,2018-08-24,10800,1956-02-15
+LE270,Damian,Simmons,Legal & Compliance,2019-02-04,10600,1958-03-29
+LE275,Lauren,Diaz,Legal & Compliance,2019-02-04,10800,1956-03-29
+LE277,Stuart,Simmons,Legal & Compliance,2019-02-04,10600,1958-04-12
+LE279,Audrey,Lewis,Legal & Compliance,2019-02-11,10900,1954-12-02
+LE280,Priscilla,Lewis,Legal & Compliance,2019-02-11,10900,1955-01-16
+LE285,Josh,Norris,Legal & Compliance,2019-02-12,10600,1958-05-26
+LE295,Iris,Torres,Legal & Compliance,2019-02-21,10700,1957-02-01
+LE303,Farrah,Bryant,Legal & Compliance,2019-02-26,10900,1955-02-01
+LE310,Wesley,Cox,Legal & Compliance,2019-02-26,10900,1955-03-14
+LE311,Adrian,Garcia,Legal & Compliance,2019-06-25,11000,1954-06-09
+LE312,Naomi,Garcia,Legal & Compliance,2019-06-25,11000,1954-07-23
+LE362,Jared,Patterson,Legal & Compliance,2021-10-07,10900,1955-04-28
+LE372,Geraldine,Gibson,Legal & Compliance,2021-10-15,10600,1958-06-09
+LE382,Don,Fisher,Legal & Compliance,2021-10-24,10900,1955-05-12
+LE387,Linda,Payne,Legal & Compliance,2021-10-24,10700,1957-03-14
+LE389,Tina,Fisher,Legal & Compliance,2021-10-24,10900,1955-06-26
+LE391,Bryce,Edwards,Legal & Compliance,2021-10-29,10600,1958-07-23
+LE396,Kate,Bell,Legal & Compliance,2021-10-29,10800,1956-04-12
+LE398,Rodney,Edwards,Legal & Compliance,2021-10-29,10600,1958-08-06
+LE445,Amy,Martin,Legal & Compliance,2023-04-03,10800,1956-05-26
+LE446,Octavia,Martin,Legal & Compliance,2023-04-03,10800,1956-06-09
+LE451,John,Cruz,Legal & Compliance,2023-04-04,10700,1957-04-28
+LE459,Hilda,Reed,Legal & Compliance,2023-04-12,10900,1955-07-10
+LE468,Ernest,Powell,Legal & Compliance,2023-04-18,10800,1956-07-23
+LE475,Vivian,Stewart,Legal & Compliance,2023-04-18,10800,1956-08-06
+LE478,Colin,Coleman,Legal & Compliance,2023-04-26,10700,1957-05-12
+LE483,Kristin,Flores,Legal & Compliance,2023-04-26,10600,1958-09-20
+LE485,Sofia,Coleman,Legal & Compliance,2023-04-26,10700,1957-06-26
+LE493,Frederic,Sullivan,Legal & Compliance,2024-12-07,10700,1957-07-10
+LE500,Winston,Kelly,Legal & Compliance,2024-12-07,10700,1957-08-24
+LE502,Deborah,Ford,Legal & Compliance,2024-12-12,10800,1956-09-20
+LE507,Leon,Jordan,Legal & Compliance,2024-12-12,10900,1955-08-24
+LE509,Terence,Ford,Legal & Compliance,2024-12-12,10800,1956-10-04
+LE511,Betty,Adams,Legal & Compliance,2024-12-21,10700,1957-09-07
+LE516,Julie,Campbell,Legal & Compliance,2024-12-21,10700,1957-10-21
+LE518,Raul,Adams,Legal & Compliance,2024-12-21,10700,1957-11-05
+LE526,Jaime,Bennett,Legal & Compliance,2024-12-29,10600,1958-10-04
+MA028,Elias,Ramirez,Manufacturing & Production,2012-01-05,9100,1970-05-26
+MA033,Luis,Mitchell,Manufacturing & Production,2012-01-05,9100,1970-06-09
+MA035,Uma,Norris,Manufacturing & Production,2012-01-05,9100,1970-07-23
+MA038,Chad,Torres,Manufacturing & Production,2012-01-14,9000,1971-07-10
+MA043,Kendall,Kelly,Manufacturing & Production,2012-01-14,9100,1970-08-06
+MA045,Santiago,Torres,Manufacturing & Production,2012-01-14,9000,1971-08-24
+MA052,Jenny,Ford,Manufacturing & Production,2012-01-19,9000,1971-09-07
+MA061,Hannah,Stone,Manufacturing & Production,2012-01-28,9200,1969-05-12
+MA072,Ethan,Patterson,Manufacturing & Production,2013-06-01,7200,1987-03-14
+MA079,Waldo,Bailey,Manufacturing & Production,2013-06-01,7200,1987-04-28
+MA082,Connor,Perry,Manufacturing & Production,2013-06-10,7100,1988-03-29
+MA087,Kurt,Butler,Manufacturing & Production,2013-06-10,7400,1985-09-07
+MA089,Sonia,Perry,Manufacturing & Production,2013-06-10,7100,1988-04-12
+MA091,Angel,Moore,Manufacturing & Production,2013-06-17,7000,1988-11-18
+MA092,Pamela,Moore,Manufacturing & Production,2013-06-17,7000,1988-12-02
+MA097,Jolene,Payne,Manufacturing & Production,2013-06-18,7100,1988-05-26
+MA105,Holly,Bell,Manufacturing & Production,2013-06-26,7000,1989-01-16
+MA116,Anthony,Lopez,Manufacturing & Production,2015-09-07,9300,1968-06-09
+MA117,Paul,Lopez,Manufacturing & Production,2015-09-07,9300,1968-07-23
+MA122,Jonathan,Rowe,Manufacturing & Production,2015-09-08,9400,1967-09-07
+MA130,Hugh,Cooper,Manufacturing & Production,2015-09-17,9100,1970-09-20
+MA139,Evan,Washington,Manufacturing & Production,2015-09-22,9000,1971-10-21
+MA146,Walter,Bell,Manufacturing & Production,2015-09-22,9300,1968-08-06
+MA149,Carla,Reed,Manufacturing & Production,2016-03-05,9200,1969-06-26
+MA154,Katrina,Cox,Manufacturing & Production,2016-03-05,9300,1968-09-20
+MA156,Rose,Reed,Manufacturing & Production,2016-03-05,9200,1969-07-10
+MA163,Jayden,Simmons,Manufacturing & Production,2016-03-11,9200,1969-08-24
+MA173,Glenda,Brewer,Manufacturing & Production,2016-03-19,9100,1970-10-04
+MA183,Dustin,Cruz,Manufacturing & Production,2016-03-28,9300,1968-10-04
+MA188,Lois,Holmes,Manufacturing & Production,2016-03-28,9400,1967-10-21
+MA190,Tony,Cruz,Manufacturing & Production,2016-03-28,9300,1968-11-18
+MA196,Helena,Edwards,Manufacturing & Production,2017-11-05,9300,1968-12-02
+MA205,Emma,Ross,Manufacturing & Production,2017-11-14,9200,1969-09-07
+MA212,Victoria,Campbell,Manufacturing & Production,2017-11-14,9200,1969-10-21
+MA215,Claire,Bennett,Manufacturing & Production,2017-11-22,9300,1950-01-01
+MA220,Kirsten,Perry,Manufacturing & Production,2017-11-22,9400,1967-11-05
+MA222,Shelly,Bennett,Manufacturing & Production,2017-11-22,9300,1969-01-16
+MA224,Alexa,Anderson,Manufacturing & Production,2017-11-29,9000,1971-11-05
+MA225,Oliver,Anderson,Manufacturing & Production,2017-11-29,9000,1971-12-19
+MA226,Aaliyah,Smith,Manufacturing & Production,2018-01-15,8500,1976-04-12
+MA227,Natalie,Smith,Manufacturing & Production,2018-01-15,8500,1976-05-26
+MA228,Christina,Kelly,Manufacturing & Production,2018-08-01,7000,1989-02-01
+MA233,Kim,Henderson,Manufacturing & Production,2018-08-01,7300,1986-07-23
+MA235,Sharon,Kelly,Manufacturing & Production,2018-08-01,7000,1989-03-14
+MA241,Jessica,Jordan,Manufacturing & Production,2018-08-10,7000,1989-04-28
+MA250,Heather,Campbell,Manufacturing & Production,2018-08-15,7200,1987-05-12
+MA260,Emerson,Bennett,Manufacturing & Production,2018-08-24,7400,1985-10-21
+MA266,Vernon,Mitchell,Manufacturing & Production,2018-08-24,7400,1985-11-05
+MA269,Blake,Carter,Manufacturing & Production,2019-02-04,7300,1986-08-06
+MA274,June,Evans,Manufacturing & Production,2019-02-04,7400,1985-12-19
+MA276,Reginald,Carter,Manufacturing & Production,2019-02-04,7300,1986-09-20
+MA284,Jamal,Barnes,Manufacturing & Production,2019-02-12,7400,1986-01-02
+MA294,Gabriella,Cole,Manufacturing & Production,2019-02-21,7100,1988-06-09
+MA302,Dennis,Graham,Manufacturing & Production,2019-02-26,7200,1987-06-26
+MA307,Leslie,Reynolds,Manufacturing & Production,2019-02-26,7000,1989-05-12
+MA309,Terrance,Graham,Manufacturing & Production,2019-02-26,7200,1987-07-10
+MA320,Jamie,Coleman,Manufacturing & Production,2020-05-03,9100,1970-11-18
+MA330,Gary,Owens,Manufacturing & Production,2020-05-11,9400,1967-12-19
+MA338,Devin,Cole,Manufacturing & Production,2020-05-19,9200,1969-11-05
+MA343,Levi,Harrison,Manufacturing & Production,2020-05-19,9100,1970-12-02
+MA345,Theodore,Cole,Manufacturing & Production,2020-05-19,9200,1969-12-19
+MA347,Brenda,Turner,Manufacturing & Production,2020-05-25,9100,1971-01-16
+MA352,Kara,Stewart,Manufacturing & Production,2020-05-25,9200,1970-01-02
+MA354,Ricardo,Turner,Manufacturing & Production,2020-05-25,9100,1971-02-01
+MA357,Mack,Collins,Manufacturing & Production,2021-05-03,6400,1984-02-15
+MA361,Guadalupe,Norris,Manufacturing & Production,2021-10-07,7400,1986-02-15
+MA371,Eileen,Fuller,Manufacturing & Production,2021-10-15,7300,1986-10-04
+MA376,Lucas,Phillips,Manufacturing & Production,2021-10-15,7300,1986-11-18
+MA378,Tyrone,Holmes,Manufacturing & Production,2021-10-15,7300,1986-12-02
+MA381,Cassandra,Cox,Manufacturing & Production,2021-10-24,7200,1987-08-24
+MA386,Kelsey,James,Manufacturing & Production,2021-10-24,7000,1989-06-26
+MA388,Samantha,Cox,Manufacturing & Production,2021-10-24,7200,1987-09-07
+MA395,Jeffrey,Diaz,Manufacturing & Production,2021-10-29,7200,1987-10-21
+MA405,Frances,Hayes,Manufacturing & Production,2022-07-03,9300,1969-02-01
+MA412,Willard,Gray,Manufacturing & Production,2022-07-03,9100,1971-03-14
+MA414,Darrell,Russell,Manufacturing & Production,2022-07-08,9100,1971-04-28
+MA419,Lee,Graham,Manufacturing & Production,2022-07-08,9300,1969-03-14
+MA421,Tabitha,Russell,Manufacturing & Production,2022-07-08,9100,1971-05-12
+MA423,Barbara,Wright,Manufacturing & Production,2022-07-16,9400,1968-01-02
+MA424,Rachel,Wright,Manufacturing & Production,2022-07-16,9400,1968-02-15
+MA429,Judith,Nelson,Manufacturing & Production,2022-07-17,9100,1971-06-26
+MA439,Ivy,Watson,Manufacturing & Production,2022-07-25,9400,1968-03-29
+MA450,Isabel,Gray,Manufacturing & Production,2023-04-04,7300,1987-01-16
+MA458,Fernando,Russell,Manufacturing & Production,2023-04-12,7000,1989-07-10
+MA465,Wilbert,Ward,Manufacturing & Production,2023-04-12,7000,1989-08-24
+MA467,Daniel,Gonzales,Manufacturing & Production,2023-04-18,7400,1986-03-29
+MA472,Lavon,Myers,Manufacturing & Production,2023-04-18,7200,1987-11-05
+MA474,Susan,Gonzales,Manufacturing & Production,2023-04-18,7400,1986-04-12
+MA476,Autumn,Hall,Manufacturing & Production,2023-04-25,7100,1988-07-23
+MA477,Phoebe,Hall,Manufacturing & Production,2023-04-25,7100,1988-08-06
+MA482,Joy,Pollard,Manufacturing & Production,2023-04-26,7300,1987-02-01
+MA487,Alan,Davis,Manufacturing & Production,2023-08-08,7200,1987-12-19
+MA488,Nina,Davis,Manufacturing & Production,2023-08-08,7200,1988-01-02
+MA492,Donovan,Harrison,Manufacturing & Production,2024-12-07,7000,1989-09-07
+MA497,Lisa,Case,Manufacturing & Production,2024-12-07,7100,1988-09-20
+MA499,Todd,Harrison,Manufacturing & Production,2024-12-07,7000,1989-10-21
+MA501,Cameron,Stewart,Manufacturing & Production,2024-12-12,7400,1986-05-26
+MA506,Kathleen,Rivera,Manufacturing & Production,2024-12-12,7200,1988-02-15
+MA508,Roland,Stewart,Manufacturing & Production,2024-12-12,7400,1986-06-09
+MA515,Jason,Flores,Manufacturing & Production,2024-12-21,7100,1988-10-04
+MA525,Gilbert,Cruz,Manufacturing & Production,2024-12-29,7300,1950-02-15
+QU029,Giselle,Marshall,Quality Assurance & Control,2012-01-05,8400,1976-06-09
+QU039,Doris,Gibson,Quality Assurance & Control,2012-01-14,8200,1977-11-05
+QU044,Lloyd,Rowe,Quality Assurance & Control,2012-01-14,8300,1977-03-14
+QU046,Tom,Gibson,Quality Assurance & Control,2012-01-14,8200,1977-12-19
+QU048,Cara,Morris,Quality Assurance & Control,2012-01-19,8100,1978-11-18
+QU053,Kathy,Cooper,Quality Assurance & Control,2012-01-19,8000,1979-09-07
+QU055,Rosa,Morris,Quality Assurance & Control,2012-01-19,8100,1978-12-02
+QU062,Javier,Washington,Quality Assurance & Control,2012-01-28,8100,1979-01-16
+QU112,Albert,Rodriguez,Quality Assurance & Control,2014-09-15,8000,1979-10-21
+QU113,Nelson,Rodriguez,Quality Assurance & Control,2014-09-15,8000,1979-11-05
+QU118,Christine,Sanders,Quality Assurance & Control,2015-09-08,8200,1978-01-02
+QU123,Kimberly,Coleman,Quality Assurance & Control,2015-09-08,8400,1976-07-23
+QU125,Shaun,Sanders,Quality Assurance & Control,2015-09-08,8200,1978-02-15
+QU131,Jesus,Owens,Quality Assurance & Control,2015-09-17,8200,1978-03-29
+QU140,Heidi,Parker,Quality Assurance & Control,2015-09-22,8000,1979-12-19
+QU150,Derek,Sullivan,Quality Assurance & Control,2016-03-05,8000,1980-01-02
+QU155,Lester,Fisher,Quality Assurance & Control,2016-03-05,8200,1978-04-12
+QU157,Terry,Sullivan,Quality Assurance & Control,2016-03-05,8000,1980-02-15
+QU159,Bradley,Mitchell,Quality Assurance & Control,2016-03-11,8400,1976-08-06
+QU164,Justine,Edwards,Quality Assurance & Control,2016-03-11,8100,1979-02-01
+QU166,Regina,Mitchell,Quality Assurance & Control,2016-03-11,8400,1976-09-20
+QU174,Jamar,Ross,Quality Assurance & Control,2016-03-19,8400,1976-10-04
+QU184,Gage,West,Quality Assurance & Control,2016-03-28,8300,1977-04-28
+QU197,Jenna,Hayes,Quality Assurance & Control,2017-11-05,8000,1980-03-29
+QU206,Gwendolyn,Jennings,Quality Assurance & Control,2017-11-14,8100,1979-03-14
+QU216,Elaine,Peterson,Quality Assurance & Control,2017-11-22,8400,1976-11-18
+QU221,Lucia,Nelson,Quality Assurance & Control,2017-11-22,8400,1976-12-02
+QU223,Ursula,Atkins,Quality Assurance & Control,2017-11-22,8400,1977-01-16
+QU315,Ava,Allen,Quality Assurance & Control,2020-05-02,8300,1977-05-12
+QU316,Piper,Allen,Quality Assurance & Control,2020-05-02,8300,1977-06-26
+QU321,Joyce,Stone,Quality Assurance & Control,2020-05-03,8400,1977-02-01
+QU331,Isaiah,Ramirez,Quality Assurance & Control,2020-05-11,8300,1977-07-10
+QU339,Fiona,Griffin,Quality Assurance & Control,2020-05-19,8200,1978-05-26
+QU346,Wilbur,Torres,Quality Assurance & Control,2020-05-19,8200,1978-06-09
+QU348,Danielle,Bryant,Quality Assurance & Control,2020-05-25,8100,1979-04-28
+QU353,Lawrence,Ford,Quality Assurance & Control,2020-05-25,8000,1980-04-12
+QU355,Suzanne,Bryant,Quality Assurance & Control,2020-05-25,8100,1979-05-12
+QU406,Hope,Murphy,Quality Assurance & Control,2022-07-03,8200,1978-07-23
+QU415,Eugene,Hughes,Quality Assurance & Control,2022-07-08,8000,1980-05-26
+QU422,Walker,Reed,Quality Assurance & Control,2022-07-08,8000,1980-06-09
+QU425,Constance,Powell,Quality Assurance & Control,2022-07-17,8300,1977-08-24
+QU430,Kyle,Simmons,Quality Assurance & Control,2022-07-17,8100,1979-06-26
+QU432,Spencer,Powell,Quality Assurance & Control,2022-07-17,8300,1977-09-07
+QU434,Angela,Garcia,Quality Assurance & Control,2022-07-24,8200,1978-08-06
+QU435,Patricia,Garcia,Quality Assurance & Control,2022-07-24,8200,1978-09-20
+QU440,Jon,Brewer,Quality Assurance & Control,2022-07-25,8300,1977-10-21
+RE071,Daphne,Alexander,Research & Development,2013-06-01,11100,1953-09-07
+RE076,Leah,Hamilton,Research & Development,2013-06-01,11500,1950-04-12
+RE078,Sylvia,Alexander,Research & Development,2013-06-01,11100,1953-10-21
+RE080,Bailey,Sanchez,Research & Development,2013-06-09,11300,1952-01-02
+RE081,Quentin,Sanchez,Research & Development,2013-06-09,11300,1952-02-15
+RE086,Juan,Phillips,Research & Development,2013-06-10,11400,1951-04-28
+RE096,Ivan,James,Research & Development,2013-06-18,11300,1952-03-29
+RE104,Forrest,Diaz,Research & Development,2013-06-26,11200,1952-10-04
+RE232,Jonah,Case,Research & Development,2018-08-01,11300,1952-04-12
+RE240,Howard,Rivera,Research & Development,2018-08-10,11200,1952-11-18
+RE249,Eva,Flores,Research & Development,2018-08-15,11500,1950-05-26
+RE256,Wallace,Cook,Research & Development,2018-08-15,11500,1950-06-09
+RE259,Corey,Long,Research & Development,2018-08-24,11300,1952-05-26
+RE264,Kylie,Foster,Research & Development,2018-08-24,11300,1952-06-09
+RE265,Stacy,Long,Research & Development,2018-08-24,11300,1952-07-23
+RE267,Anna,Perez,Research & Development,2018-08-31,11200,1952-12-02
+RE268,Patrick,Perez,Research & Development,2018-08-31,11200,1953-01-16
+RE273,Jay,Butler,Research & Development,2019-02-04,11100,1953-11-05
+RE283,Glen,Payne,Research & Development,2019-02-12,11400,1951-05-12
+RE293,Douglas,Mcdonald,Research & Development,2019-02-21,11200,1953-02-01
+RE298,Logan,Palmer,Research & Development,2019-02-21,11300,1952-08-06
+RE300,Toni,Mcdonald,Research & Development,2019-02-21,11200,1953-03-14
+RE301,Carl,Bailey,Research & Development,2019-02-26,11100,1953-12-19
+RE306,Katie,Richardson,Research & Development,2019-02-26,11500,1950-07-23
+RE308,Rosalie,Bailey,Research & Development,2019-02-26,11100,1954-01-02
+RE360,Emily,Barnes,Research & Development,2021-10-07,11100,1954-02-15
+RE367,Victor,Turner,Research & Development,2021-10-07,11100,1954-03-29
+RE370,Christopher,Price,Research & Development,2021-10-15,11200,1953-04-28
+RE375,Kirk,Jenkins,Research & Development,2021-10-15,11400,1951-06-26
+RE377,Sheila,Price,Research & Development,2021-10-15,11200,1953-05-12
+RE379,Alex,Martinez,Research & Development,2021-10-22,11500,1950-08-06
+RE380,Norma,Martinez,Research & Development,2021-10-22,11500,1950-09-20
+RE385,Jill,Reynolds,Research & Development,2021-10-24,11200,1953-06-26
+RE394,Hector,Evans,Research & Development,2021-10-29,11500,1950-10-04
+RE449,Garrett,Jordan,Research & Development,2023-04-04,11300,1952-09-20
+RE457,Destiny,Woods,Research & Development,2023-04-12,11500,1950-11-18
+RE462,Leticia,Ellis,Research & Development,2023-04-12,11200,1953-07-10
+RE464,Tess,Woods,Research & Development,2023-04-12,11500,1950-12-02
+RE466,Brandon,Roberts,Research & Development,2023-04-18,11400,1951-07-10
+RE471,Kai,Collins,Research & Development,2023-04-18,11100,1954-04-12
+RE473,Renee,Roberts,Research & Development,2023-04-18,11400,1951-08-24
+RE481,James,Henderson,Research & Development,2023-04-26,11400,1951-09-07
+RE491,Cecilia,Ward,Research & Development,2024-12-07,11500,1951-01-16
+RE496,Ken,Brooks,Research & Development,2024-12-07,11200,1953-08-24
+RE498,Sandra,Ward,Research & Development,2024-12-07,11500,1951-02-01
+RE505,Jennifer,Myers,Research & Development,2024-12-12,11500,1951-03-14
+RE514,Hailey,Pollard,Research & Development,2024-12-21,11100,1954-05-26
+RE524,Eleanor,Gray,Research & Development,2024-12-29,11400,1951-10-21
+RE529,Lucille,Carter,Research & Development,2024-12-29,11400,1951-11-05
+RE531,Ulysses,Meyers,Research & Development,2024-12-29,11400,1951-12-19
+SA070,Brian,Phillips,Sales & Marketing,2013-06-01,10100,1961-05-12
+SA075,Karen,Morris,Sales & Marketing,2013-06-01,10200,1960-01-02
+SA077,Richard,Phillips,Sales & Marketing,2013-06-01,10100,1961-06-26
+SA085,Jana,Jenkins,Sales & Marketing,2013-06-10,10200,1960-02-15
+SA095,Genevieve,Reynolds,Sales & Marketing,2013-06-18,10100,1961-07-10
+SA103,Diana,West,Sales & Marketing,2013-06-26,10000,1962-04-12
+SA108,Liam,Gibson,Sales & Marketing,2013-06-26,10300,1959-01-16
+SA110,Theresa,West,Sales & Marketing,2013-06-26,10000,1962-05-26
+SA231,Jack,Brooks,Sales & Marketing,2018-08-01,10100,1961-08-24
+SA239,Francis,Myers,Sales & Marketing,2018-08-10,10300,1959-02-01
+SA246,William,Ramirez,Sales & Marketing,2018-08-10,10300,1959-03-14
+SA248,David,Griffin,Sales & Marketing,2018-08-15,10200,1960-03-29
+SA253,Leia,Sullivan,Sales & Marketing,2018-08-15,10000,1962-06-09
+SA255,Tamara,Griffin,Sales & Marketing,2018-08-15,10200,1960-04-12
+SA257,Beatrice,King,Sales & Marketing,2018-08-23,10300,1959-04-28
+SA258,Raymond,King,Sales & Marketing,2018-08-23,10300,1959-05-12
+SA263,Judy,Carter,Sales & Marketing,2018-08-24,10200,1960-05-26
+SA272,Harley,Phillips,Sales & Marketing,2019-02-04,10200,1960-06-09
+SA282,Elijah,James,Sales & Marketing,2019-02-12,10100,1961-09-07
+SA287,Luke,Roberts,Sales & Marketing,2019-02-12,10200,1960-07-23
+SA289,Uriah,Jennings,Sales & Marketing,2019-02-12,10100,1961-10-21
+SA292,Charles,Peterson,Sales & Marketing,2019-02-21,10000,1962-07-23
+SA297,Kendrick,Sanders,Sales & Marketing,2019-02-21,10300,1959-06-26
+SA299,Sarah,Peterson,Sales & Marketing,2019-02-21,10000,1962-08-06
+SA305,Jeremiah,Hamilton,Sales & Marketing,2019-02-26,10000,1962-09-20
+SA359,Craig,Hughes,Sales & Marketing,2021-10-07,10100,1961-11-05
+SA364,Lamar,Bryant,Sales & Marketing,2021-10-07,10200,1960-08-06
+SA366,Stephanie,Hughes,Sales & Marketing,2021-10-07,10100,1961-12-19
+SA368,April,Lee,Sales & Marketing,2021-10-14,10200,1960-09-20
+SA369,Paula,Lee,Sales & Marketing,2021-10-14,10200,1960-10-04
+SA374,Jordyn,Palmer,Sales & Marketing,2021-10-15,10100,1962-01-02
+SA384,Ian,Richardson,Sales & Marketing,2021-10-24,10300,1959-07-10
+SA393,Evelyn,Butler,Sales & Marketing,2021-10-29,10000,1962-10-04
+SA400,Wanda,Murphy,Sales & Marketing,2021-10-29,10000,1962-11-18
+SA401,Aaron,Johnson,Sales & Marketing,2022-02-22,9200,1970-03-29
+SA402,Noah,Johnson,Sales & Marketing,2022-02-22,9200,1970-04-12
+SA448,Dylan,Marshall,Sales & Marketing,2023-04-04,10300,1959-08-24
+SA453,Lorena,Atkins,Sales & Marketing,2023-04-04,10100,1962-02-15
+SA455,Tracey,Marshall,Sales & Marketing,2023-04-04,10300,1959-09-07
+SA456,Carlos,Cook,Sales & Marketing,2023-04-12,10200,1960-11-18
+SA461,Kayla,Howard,Sales & Marketing,2023-04-12,10000,1962-12-02
+SA463,Ross,Cook,Sales & Marketing,2023-04-12,10200,1960-12-02
+SA470,Jayla,Foster,Sales & Marketing,2023-04-18,10200,1961-01-16
+SA480,Gloria,Case,Sales & Marketing,2023-04-26,10200,1961-02-01
+SA489,Alexis,Thomas,Sales & Marketing,2024-12-06,10000,1963-01-16
+SA490,Olivia,Thomas,Sales & Marketing,2024-12-06,10000,1963-02-01
+SA495,Jim,Ellis,Sales & Marketing,2024-12-07,10300,1959-10-21
+SA504,Henry,Collins,Sales & Marketing,2024-12-12,10000,1963-03-14
+SA513,Emmanuel,Henderson,Sales & Marketing,2024-12-21,10200,1961-03-14
+SA520,Vincent,Parker,Sales & Marketing,2024-12-21,10200,1961-04-28
+SA523,Clara,Wood,Sales & Marketing,2024-12-29,10300,1959-11-05
+SA528,Krista,Powell,Sales & Marketing,2024-12-29,10100,1962-03-29
+SA530,Sherri,Wood,Sales & Marketing,2024-12-29,10300,1959-12-19

@@ -1,0 +1,4 @@
+1) kaggle (if needed to download from Kaggle website, or else download dataset directly from website)
+2) pandas
+3) oracledb 
+4) sqlalchemy
