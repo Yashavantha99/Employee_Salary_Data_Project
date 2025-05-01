@@ -1,10 +1,10 @@
-# Employee Salary Data Analysis 📊
+# Department Salary Data Analysis 📊
 
 This project demonstrates a simple **end-to-end data analytics workflow** using:
 - **Kaggle** dataset (employee salaries)
 - **Python** (pandas, SQLAlchemy, oracledb)
 - **Oracle Database** (data storage and querying)
-- **Power BI** (data visualization and dashboarding)
+- **Power BI** (data visualization and dashboarding features like bookmarks, conditional formatting, tooltip)
 
 The project is aimed at improving skills in **data extraction, data loading (ETL)**, **database querying**, and **data visualization** — all key aspects of a real-world Data Analyst role.
 
